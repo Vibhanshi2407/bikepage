@@ -1067,6 +1067,8 @@ input[type="range"] {
 
   .footer-links {
     gap: 8px;
+    flex-direction: column;
+    padding: 16px;
   }
 
   .footer-bottom {
